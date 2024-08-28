@@ -67,5 +67,3 @@ WP Site Analyzer is licensed under the GPL v2 or later.
 ## Credits
 
 WP Site Analyzer was developed by Boma Nathaniel Williams. You can connect with the developer on [LinkedIn](https://www.linkedin.com/in/boma-williams/).
-
-We thank the WordPress community for their invaluable resources and inspiration.
