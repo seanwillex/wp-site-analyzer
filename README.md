@@ -47,7 +47,7 @@ A: Currently, WP Site Analyzer identifies issues and provides recommendations. I
 
 ## Support
 
-If you encounter any issues or have questions about WP Site Analyzer, please create an issue in the plugin's GitHub repository or contact our support team at support@example.com.
+If you encounter any issues or have questions about WP Site Analyzer, please create an issue in the plugin's GitHub repository or contact our support team at support@bomawilliams.com.
 
 ## Contributing
 
